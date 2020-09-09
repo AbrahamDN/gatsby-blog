@@ -10,7 +10,7 @@ const BlogPreview = styled.div`
   background-color: #e9e2f6;
   margin: 1em 0;
   color: rgb(0 0 0 / 0.75);
-  transition: 0.45s ease-in-out;
+  transition: all 0.6s ease-in-out;
 
   &:hover {
     background-color: #cfc0ea;
